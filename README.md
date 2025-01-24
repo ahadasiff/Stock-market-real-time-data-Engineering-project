@@ -17,4 +17,4 @@ This project implements an End-To-End Data Engineering pipeline for Real-Time St
 You can use any dataset for this project. The focus is primarily on the operational side of Data Engineering, specifically building a data pipeline.
 
 ## Project 
-![img](realtime%20streaming%20using%20kafka.png)
+![img](https://github.com/ahadasiff/Stock-market-real-time-data-Engineering-project/blob/2b7539d13ea5bc645df1cf7725ffa6b6ce79e58b/Diagram/Diagram.png)
